@@ -1,4 +1,3 @@
-alpine
 mzzsfy/auto-proxy-pool
 yuanter/jd_cookie
 halohub/halo:2.16
