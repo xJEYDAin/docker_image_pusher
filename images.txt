@@ -4,3 +4,4 @@ halohub/halo:2.16
 grbhq/jdx
 finab/bark-server
 library/redis
+camislav/grass
